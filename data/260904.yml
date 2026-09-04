@@ -7,7 +7,7 @@ about:
   head: 6a5decb
   archived: false
   latestVersion: v0.2.2
-  collectedAt: 2026-09-04T19:40:26Z
+  collectedAt: 2026-09-04T20:57:04Z
 timeline:
   created: 2025-06-01
   lastCommit: 2025-11-03
@@ -80,5 +80,28 @@ total:
   openIssue: 2
   commit: 79
 ---
+path: /home/runner/.x-repo/github.com/taylorwilsdon/netshow
+collectedAt: 2026-09-04T20:57:04Z
+loc:
+  Python:
+    code: 1136
+    comments: 57
+    blanks: 134
+    files: 9
+  Toml:
+    code: 89
+    comments: 0
+    blanks: 12
+    files: 1
+  Markdown:
+    code: 0
+    comments: 132
+    blanks: 38
+    files: 1
+total:
+  code: 1236
+  comments: 191
+  blanks: 185
+  files: 11
 ---
 
