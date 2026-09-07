@@ -5,13 +5,13 @@ about:
   head: 6a5decb
   archived: false
   latestVersion: "v0.2.2"
-  collectedAt: 2026-09-07T05:40:54Z
+  collectedAt: 2026-09-07T18:50:24Z
 timeline:
   created: 2025-06-01
   lastCommit: 2025-11-03
   lastRelease: 2025-07-15
 popularity:
-  star: 365
+  star: 364
   watcher: 2
   fork: 13
   release: 5
@@ -79,7 +79,7 @@ total:
   commit: 79
 ---
 path: /home/runner/.x-repo/github.com/taylorwilsdon/netshow
-collectedAt: 2026-09-07T05:40:55Z
+collectedAt: 2026-09-07T18:50:24Z
 loc:
   Python:
     code: 1136
@@ -105,7 +105,7 @@ total:
 
 ---
 eget:
-  collectedAt: 2026-09-07T05:40:55+00:00
+  collectedAt: 2026-09-07T18:50:25+00:00
   platform:
     darwin/arm64:
       name:  null
