@@ -1,0 +1,14 @@
+- repo: homebrew
+  srcname: netshow
+  visiblename: netshow
+  version: 0.2.2
+  origversion: null
+  status: unique
+  summary: Interactive network connection monitor with friendly service names
+- repo: homebrew
+  srcname: netshow
+  visiblename: netshow
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: Interactive network connection monitor with friendly service names
