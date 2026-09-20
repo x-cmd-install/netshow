@@ -4,7 +4,7 @@
 
 Lightweight, performant interactive network connection monitor with friendly service names
 
-![netshow](https://repo.x-cmd.io/netshow.svg)
+[![x-cmd/install — netshow Code Quality Monitoring Repo Card](https://repo.x-cmd.io/netshow.svg)](https://x-cmd.com/install/netshow)
 
 ## Install
 
@@ -14,13 +14,14 @@ x install netshow
 
 ## Code insight
 
-Total: **1,225** lines of code across **11** files in the top 5 languages.
+Total: **2,088** lines of code across **29** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 1,136 | 57 | 134 | 9 |
-| Toml | 89 | 0 | 12 | 1 |
-| Markdown | 0 | 132 | 38 | 1 |
+| Python | 1,660 | 7 | 282 | 23 |
+| Svg | 369 | 2 | 14 | 2 |
+| Toml | 59 | 0 | 10 | 1 |
+| Markdown | 0 | 143 | 40 | 3 |
 
 ## Source
 
@@ -29,8 +30,8 @@ Total: **1,225** lines of code across **11** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v0.2.2` (2025-07-15)
-- **Last commit**: 2025-11-03
+- **Latest**: `v0.3.0` (2026-09-19)
+- **Last commit**: 2026-09-19
 - **Assets in release**: 2
 
 ## Popularity
@@ -39,25 +40,25 @@ Total: **1,225** lines of code across **11** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 5 · **Merged PRs**: 3 · **Open PRs**: 1 · **Closed issues**: 1 · **Open issues**: 2 · **Commits**: 79
+- **Releases**: 6 · **Merged PRs**: 4 · **Open PRs**: 0 · **Closed issues**: 3 · **Open issues**: 0 · **Commits**: 86
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-20 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-20 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-03-22 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-09-23 | 0 | 0 | 1 | 0 | 1 | 1 |
-| last720d | 2024-09-28 | 5 | 3 | 1 | 1 | 2 | 79 |
+| 30d | 2026-08-21 | 1 | 0 | 0 | 0 | 0 | 5 |
+| last60d | 2026-07-22 | 1 | 0 | 0 | 0 | 0 | 5 |
+| 90d | 2026-06-22 | 1 | 0 | 0 | 0 | 0 | 5 |
+| last180d | 2026-03-24 | 1 | 0 | 0 | 0 | 0 | 5 |
+| 360d | 2025-09-25 | 1 | 1 | 0 | 1 | 0 | 7 |
+| last720d | 2024-09-30 | 6 | 4 | 0 | 3 | 0 | 86 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [netshow-0.2.2-py3-none-any.whl](https://github.com/taylorwilsdon/netshow/releases/download/v0.2.2/netshow-0.2.2-py3-none-any.whl) | 16.8 KiB | `other` |
-| [netshow-0.2.2.tar.gz](https://github.com/taylorwilsdon/netshow/releases/download/v0.2.2/netshow-0.2.2.tar.gz) | 1.3 MiB | `native/unknown` |
+| [netshow-0.3.0-py3-none-any.whl](https://github.com/taylorwilsdon/netshow/releases/download/v0.3.0/netshow-0.3.0-py3-none-any.whl) | 22.5 KiB | `other` |
+| [netshow-0.3.0.tar.gz](https://github.com/taylorwilsdon/netshow/releases/download/v0.3.0/netshow-0.3.0.tar.gz) | 62.3 KiB | `native/unknown` |
 
 ## Improve this data
 
@@ -68,4 +69,4 @@ Install metadata for netshow lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T06:04:42Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T05:58:44Z._
