@@ -46,12 +46,12 @@ Total: **2,090** lines of code across **29** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-06 | 1 | 0 | 0 | 0 | 0 | 7 |
-| last60d | 2026-08-07 | 1 | 0 | 0 | 0 | 0 | 7 |
-| 90d | 2026-07-08 | 1 | 0 | 0 | 0 | 0 | 7 |
-| last180d | 2026-04-09 | 1 | 0 | 0 | 0 | 0 | 7 |
-| 360d | 2025-10-11 | 1 | 1 | 0 | 1 | 0 | 9 |
-| last720d | 2024-10-16 | 6 | 4 | 0 | 3 | 0 | 88 |
+| 30d | 2026-09-07 | 1 | 0 | 0 | 0 | 0 | 7 |
+| last60d | 2026-08-08 | 1 | 0 | 0 | 0 | 0 | 7 |
+| 90d | 2026-07-09 | 1 | 0 | 0 | 0 | 0 | 7 |
+| last180d | 2026-04-10 | 1 | 0 | 0 | 0 | 0 | 7 |
+| 360d | 2025-10-12 | 1 | 1 | 0 | 1 | 0 | 9 |
+| last720d | 2024-10-17 | 6 | 4 | 0 | 3 | 0 | 88 |
 
 ## Release assets
 
@@ -69,4 +69,4 @@ Install metadata for netshow lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261006.yml` · 2026-10-06T07:23:06Z._
+_Snapshot: `data/card/261007.yml` · 2026-10-07T06:59:13Z._
