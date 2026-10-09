@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 23008,
       "digest": "sha256:09b90e70d0b560346be9ae32c2a25bcd08e06652945a9d9ca0ff43147c4fa0fc",
-      "download_count": 1,
+      "download_count": 4,
       "created_at": "2026-09-19T18:11:04Z",
       "updated_at": "2026-09-19T18:11:04Z",
       "browser_download_url": "https://github.com/taylorwilsdon/netshow/releases/download/v0.3.0/netshow-0.3.0-py3-none-any.whl"
